@@ -6,7 +6,7 @@
     "Hage Yaapa <captain@hacksparrow.com> (http://www.hacksparrow.com)",
     "Jaret Pfluger <https://github.com/jpfluger>",
     "Linus Unnebäck <linus@folkdatorn.se>",
-    "Artem Derevnjuk <artem.derevnjuk@neuralegion.com>"
+    "Artem Derevnjuk <artem.derevnjuk@brightsec.com>"
   ],
   "private": false,
   "publishConfig": {
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeuraLegion/multer.git"
+    "url": "git+https://github.com/BrightSec/multer.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NeuraLegion/multer/issues"
+    "url": "https://github.com/BrightSec/multer/issues"
   },
-  "homepage": "https://github.com/NeuraLegion/multer#readme",
+  "homepage": "https://github.com/BrightSec/multer#readme",
   "keywords": [
     "form",
     "post",
